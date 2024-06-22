@@ -1,0 +1,28 @@
+button{
+ background-color: green;
+ color: white;
+ border: 5px solid white;
+ margin-left: 490px;
+ margin-right: 500px;
+}
+img{
+    border: 20px solid saddlebrown;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+a{
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+body{
+    background-color: aqua;
+}
