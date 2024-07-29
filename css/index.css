@@ -2,8 +2,12 @@ button{
  background-color: green;
  color: white;
  border: 5px solid white;
- margin-left: 490px;
+ margin-left: 560px;
  margin-right: 500px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ padding-right: 5px;
+ padding-left: 5px;
 }
 img{
     border: 20px solid saddlebrown;
@@ -19,8 +23,9 @@ a{
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 500px;
+    margin-left: 620px;
     margin-right: 500px;
+    font-size:large;
 
 }
 body{

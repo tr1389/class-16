@@ -13,21 +13,18 @@ class button{
       
 
 }
-var b=new button("translate to German")
+var b=new button("first name")
        var f= function(){
         var button=document.querySelector("button")
-        var title=document.querySelector("title")
         var p=document.querySelector("p")
-        if(button.innerText=="translate to German"){
-            title.innerText="Meine Einleitung"
-            p.innerText="Hallo! Ich bin Reza. Ich bin 13 Jahre alt."
-            button.innerText="translate to English"
+        if(button.innerText=="first name"){
+            p.innerText="رضا"
+            button.innerText="family name"
 
         }
-        else if( button.innerText=="translate to English"){
-            title.innerText="My introduction"
-            p.innerText="Hello! I am Reza. I am 13."
-            button.innerText="translate to German"
+        else if( button.innerText=="family name"){
+            p.innerText="ریخته گران"
+            button.innerText="first name"
 
         }
 
